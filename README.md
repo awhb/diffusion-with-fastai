@@ -15,6 +15,6 @@ Clone this repo, `cd` to it, and run:
 pip install -e .
 ```
 
-This installs the `miniai` library which I will be creating with FastAI in this course.
+This installs the `miniai` library which I will be learning to create through the fast.ai course. 
 
 {TBC}
