@@ -16,6 +16,14 @@ Clone this repo, `cd` to it, and run:
 pip install -e .
 ```
 
+(You may optionally create a virtual environment first)
+
 This installs the `miniai` library which I will be learning to create through the fast.ai course. 
 
-{TBC}
+## Using Jupyter notebooks
+
+1. Notebooks can be found in the `nbs` subfolder.
+2. Copy the notebook from the `nbs` subfolder into the `miniai` subfolder. 
+3. Run the notebooks using the local environment (with miniai module installed) as a Jupyter kernel (VSCode functionality).
+4. Running the cells with export functionality periodically exports the code within the notebooks to the files in miniai (preliminary versions are already initialised but feel free to iterate)
+
